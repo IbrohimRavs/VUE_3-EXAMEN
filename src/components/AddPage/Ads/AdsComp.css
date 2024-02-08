@@ -1,0 +1,475 @@
+.ads{
+    padding-top: 73px;
+}
+
+.ads__wrapper{
+    /* display: flex; */
+    margin-left: 253px;
+    /* flex-direction: column;
+    flex-wrap: wrap; */
+}
+
+.ads__price-wr-input{
+    display: flex;
+    align-items: center;
+    justify-content: start;
+}
+
+.ads__price-wr{
+    margin-right: 100px;
+    
+}
+
+.ads__price-wr-input{
+    display: flex;
+    align-items: center;
+}
+
+.ads__price-text{
+    font-family: 'Gilroy';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: black;
+}
+
+.ads__price-wr-input{
+    margin-top: 5px;
+}
+
+.ads__price-number-inp{
+    border: none;
+    border-bottom: 1px solid black;
+    /* width: 162px; */
+    /* padding: 4px 86px 10px 0 ; */
+    padding-top: 4px;
+    margin-right: 43px;
+}
+
+.ads__price-number-inp::placeholder{
+    font-family: 'Gilroy';
+    font-size: 19px;
+    font-weight: 500;
+    line-height: 23px;
+    letter-spacing: 0px;
+    text-align: left;
+}
+
+.ads__price-select{
+    padding: 4px 20px 0 0;
+    border: none;
+    background-color: white;
+    border-bottom: 1px solid black;
+    margin-right: 25px;
+    font-family: 'Gilroy';
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 21px;
+    letter-spacing: 0px;
+    text-align: left; 
+}
+
+.ads__price-checkbox{
+    width: 24px;
+    height: 24px;
+    border: 1px solid #9B9B9B;
+}
+
+.ads__price-title{
+    font-family: 'Gilroy';
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 21px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: black;
+    margin-left: 11px;
+}
+
+.ads__room-wr{
+    margin-top: 38px;
+}
+
+.ads__room-text{
+    margin-bottom: 15px;
+    font-family: 'Gilroy';
+    color: black;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    letter-spacing: 0px;
+    text-align: left;
+}
+
+.ads__room-input{
+    border: none;
+    margin-right: 40px;
+    border-bottom: 1px solid black;
+    padding-bottom: 10px;
+    padding-top:    5px;
+}
+
+.ads__room-input::placeholder{
+    font-family: 'Gilroy';
+    font-size: 19px;
+    font-weight: 500;
+    line-height: 23px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: black;
+}
+
+.ads__location-wr{
+    margin-top: 40px;
+}
+
+.ads__location-title{
+    font-family: 'Gilroy';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: black;
+}
+
+.ads__location-wr-mini:nth-child(1){
+    margin-top: 15px;
+}
+
+.ads__location-wr-mini{
+    display: flex;
+    align-items: center;
+    margin-top: 30px;
+}
+
+.ads__location-checkbox{
+    margin-right: 10px;
+}
+
+.ads__location-text{
+    font-family: 'Gilroy';
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 18px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: black;
+    margin-right: 70px;
+    width: 200px;
+}
+
+.ads__home-wr{
+    margin-top: 50px;
+}
+
+.ads__home-text-wr{
+    display: flex;
+}
+
+.ads__home-text{
+    font-family: 'Gilroy';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: black;
+    margin-right: 87px;
+}
+
+.ads__home-wr-input{
+    margin-top: 10px;
+}
+
+.ads__home-input{
+    border: none;
+    border-bottom: 1px solid black;
+    margin-right: 40px;
+    padding-top: 5px;
+}
+.ads__home-input:nth-child(2){
+    border: none;
+    border-bottom: 1px solid black;
+    margin-right: 37px;
+}
+.ads__home-input::placeholder{
+    font-family: 'Gilroy';
+    font-size: 19px;
+    font-weight: 500;
+    line-height: 23px;
+    letter-spacing: 0px;
+    text-align: left;
+    
+}
+
+.ads__state-wr{
+    margin-top: 45px;
+}
+
+.ads__state-title{
+    font-family: 'Gilroy';
+    color: black;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    letter-spacing: 0px;
+    text-align: left;
+    
+}
+
+.ads__label-wr {
+    margin-top: 45px;
+}
+.ads__label-text-wr {
+    display: flex;
+}
+.ads__label-text {
+    font-family: 'Gilroy';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: black;
+    margin-right: 200px;
+}
+
+.ads__label-select{
+    border: none;
+    border-bottom: 1px solid black;
+    font-family: 'Gilroy';
+    font-size: 19px;
+    font-weight: 500;
+    line-height: 23px;
+    letter-spacing: 0px;
+    text-align: left;
+    margin-right: 30px;
+}
+
+.ads__label-select-wr{
+    margin-top: 10px;
+}
+
+.ads__label-select:nth-child(1){
+    padding: 5px 129px 10px 0;
+}
+.ads__label-select:nth-child(2){
+    padding: 5px 0 10px 0;
+}
+
+.ads__message-wr {
+    margin-top: 45px;
+}
+.ads__message-title {
+    font-family: 'Gilroy';
+    color: black;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    letter-spacing: 0px;
+    text-align: left;
+}
+.ads__message-input {
+    border: none;
+    background-color: white;
+    border-bottom: 1px solid black;
+    padding: 5px 531px 134px 0;
+    margin-top: 30px;
+    
+}
+
+.ads__message-input::placeholder{
+    font-family: 'Gilroy';
+    color: black;
+    font-size: 19px;
+    font-weight: 500;
+    line-height: 23px;
+    letter-spacing: 0px;
+    text-align: left;
+}
+
+.ads-files{
+    margin-top: 20px;
+}
+
+.ads__wr-label::before{
+    content: '';
+    position: absolute;
+    display: block;
+    background-image: url("../../../../public/images/foto.svg");
+    width: 42px;
+    height: 35px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    top: 38px;
+    left: 33px;
+}
+
+.ads__wr-label{
+    background-color: #E5F5F5;
+    display: block;
+    cursor: pointer;
+    border-radius: 10px;
+    border: 1px solid #50E2C2;
+    width: 107px;
+    height: 107px;
+    position: relative;
+}
+
+.ads-input-file{
+    display: flex;
+    margin-top: 30px;
+}
+
+.ads__wr-input{
+    display: none;
+}
+
+.ads-label{
+    margin-right: 40px;
+}
+
+.ads__wr-files{
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 30px;
+}
+
+.ads__wr-input-file{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-bottom: 23px;
+}
+
+.ads__wr-label{
+    margin-right: 40px;
+}
+
+.ads__region-wr{
+    margin-top: 41px;
+}
+
+.ads__region-title{
+    font-family: 'Gilroy';
+    color: black;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 29px;
+    letter-spacing: 0px;
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+.ads__region-wr-text{
+    display: flex;
+}
+
+.ads__region-text{
+    font-family: 'Gilroy';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: black;
+}
+
+.ads__region-text:nth-child(1){
+    margin-right: 213px;
+}
+
+.ads__region-select{
+    border: none;
+    border-bottom: 1px solid black;
+    font-family: 'Gilroy';
+    font-size: 19px;
+    font-weight: 500;
+    line-height: 23px;
+    letter-spacing: 0px;
+    text-align: left;
+    margin-right: 27px;
+}
+
+.ads__region-select:nth-child(1){
+    padding: 5px 130px 10px 0;
+}
+
+.ads__region-select:nth-child(2){
+    padding-bottom: 10px;
+    padding-right: 104px;
+}
+
+.ads__wr-frame{
+    margin-top: 20px;
+    margin-bottom: 22px;
+}
+
+.ads__frame{
+    width: 653px;
+    height: 376px;
+}
+
+.ads__wr-tel-text{
+    font-family: 'Gilroy';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: black;
+    margin-bottom: 13px;
+}
+
+.ads__wr-tel-input{
+    border: none;
+    border-bottom: 1px solid black;
+    padding: 5px 146px 10px 0;
+    background-color: white;
+    font-family: 'Gilroy';
+    font-size: 19px;
+    font-weight: 500;
+    line-height: 23px;
+    letter-spacing: 0px;
+    margin-bottom: 31px;
+    text-align: left;
+    color: black;
+}
+
+.ads__wr-tel-input::placeholder{
+    color: black;
+}
+
+.ads__wr-button{
+    align-items: center;
+    display: flex;
+}
+
+.ads__button{
+    font-family: 'Gilroy';
+    font-size: 19px;
+    color: black;
+    padding: 20px 45px 21px 46px;
+    font-weight: 500;
+    line-height: 23px;
+    letter-spacing: 0px;
+    text-align: left;
+    background-color: #19D476;
+    border: none;
+    border-radius: 15px;
+    margin-right: 67px;
+}
+
+.ads__text{
+    font-family: 'Gilroy';
+    font-size: 19px;
+    font-weight: 500;
+    line-height: 23px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #4E72CA;
+    text-decoration: underline;
+}

@@ -1,0 +1,210 @@
+.profile{
+    padding-top: 15px;
+    background-color: #F3F3F3;
+}
+
+.profile__text-wr{
+    display: flex;
+    justify-content: space-between;
+    width: 60%;
+    margin-bottom: 11px;
+}
+
+.profile__wr-mini{
+    display: flex;
+}
+
+.profile__text{
+    font-family: 'Gilroy';
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 17px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: black;
+    margin-right: 30px;
+}
+
+.two{
+    justify-content: space-between;
+    width: 50%;
+}
+
+.profile__item{
+    background-color: white;
+    padding: 19px 16px 20px 17px;
+}
+
+.profile__wr-mini{
+    display: flex;  
+    align-items: center;
+}
+
+.profile__item-title{
+    margin-left: 16px;
+    font-family: 'Gilroy';
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 21px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #414D6A;
+}
+
+.profile__item-wr-price{
+    margin-left: 90px;
+    width: 110px;
+}
+
+.profile__item-price-text{
+    font-family: 'Gilroy';
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 18px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #414D6A;
+}
+
+.profile__item-price-title{
+    font-family: 'Gilroy';
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 18px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #414D6A;
+}
+
+.profile__item-wr-data{
+    margin-left: 67px;
+}
+
+.profile__item-data{
+    font-family: 'Gilroy';
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 17px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #414D6A;
+}
+
+.profile__item-button-green{
+    margin-left: 68px;
+}
+
+.profile__item-button-green{
+    display: flex;
+    background-color: white;
+    border: 1px solid #41D481;
+    padding-right: 20px;
+    align-items: center;
+    border-top-left-radius: 18px;
+    border-bottom-left-radius: 18px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.profile__item-green-button-img{
+    height: 26px;
+    width: 15px;
+}
+
+.profile__item-green-button{
+    font-family: 'Gilroy';
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 0px;
+    text-align: left;
+    margin-left: 14px;
+}
+
+.profile__wr-img{
+    padding: 4px 9px 2px 10px;
+    border: none;
+    border-radius: 50%;
+    background-color: #41D481;
+}
+
+.profile__item-button-blue{
+    display: flex;
+    background-color: white;
+    border: 1px solid #304FFF;
+    padding-right: 20px;
+    align-items: center;
+    border-top-left-radius: 18px;
+    border-bottom-left-radius: 18px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    margin-left: 21px;
+    margin-right: 22px;
+}
+
+.profile__wr-img-blue{
+    padding: 4px 9px 2px 10px;
+    border: none;
+    border-radius: 50%;
+    background-color: #304FFF;
+}
+
+.profile__item-button-white{
+    padding: 10px 9px;
+    border: none;
+    background-color: white;
+    border-radius: 50%;
+    box-shadow: 2px 4px 8px 0px rgba(0, 0, 0, 0.25);
+}
+
+.profile__item-text-wr {
+    display: flex;
+    max-width: 422px;
+    justify-content: space-between;
+}
+.profile__item-footer-text {
+    font-family: 'Gilroy';
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 17px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #414D6A;
+}
+
+.profile__item-footer-text:nth-child(1){
+    color: #304FFF;
+}
+
+/* .profile__item-wr-border{
+    position: relative;
+} */
+
+.profile__wr-all{
+    position: relative;
+}
+
+/* .profile__item-border{
+    border: 1px solid #9797973F;
+    position: absolute;
+    width: 1123px;
+    height: 1px;
+    margin-top: 10px;
+} */
+
+.profile__wr-all::after{
+    content: '';
+    position: absolute;
+    border: 1px solid #9797973F;
+    width: 1123px;
+    height: 1px;
+    bottom: 27px;
+}
+
+.profile__item-text-wr{
+    margin-top: 40px;
+}
+
+.profile__item{
+    margin-bottom: 20px;
+}

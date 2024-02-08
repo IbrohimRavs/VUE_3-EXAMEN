@@ -1,0 +1,133 @@
+.range{
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.range__wr-input{
+    display: flex;
+}
+
+.range__text{
+    font-family: 'Gilroy';
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: -0.00006733196642016992px;
+    text-align: left;
+    color: #787993;
+    margin-right: 41px;
+}
+
+.MultiRangeSliderContainer{
+    width: 923px;
+    height: 2px !important;
+    
+}
+
+.ruler{
+    display: none !important;
+}
+
+.labels{
+    display: none !important;
+}
+
+.multi-range-slider{
+    box-shadow: 0 0 0 !important;
+    padding: 0 !important;
+    border: none !important;
+}
+
+.bar-inner{
+    box-shadow: 0 0 0 !important;
+    padding: 0 !important;
+    background-color: #2979FF !important;
+}
+
+.bar-left{
+    background-color: #B6CAFB !important;
+}
+.bar-right{
+    background-color: #B6CAFB !important;
+}
+
+.multi-range-slider .thumb::before{
+    box-shadow: 0 0 0 !important;
+}
+
+.multi-range-slider .bar-right{
+    box-shadow: 0 0 0 !important;
+}
+.multi-range-slider .bar-left{
+    box-shadow: 0 0 0 !important;
+}
+
+
+.multi-range-slider .bar-inner{
+    border: 0 !important;
+}
+
+.multi-range-slider .thumb::before{
+    border: 1px solid #2979FF !important;
+    background-color:#EBF5FF !important;
+}
+
+.range__wr-input{
+    display: flex;
+    align-items: center;
+}
+
+.range__text{
+    font-family: 'Gilroy';
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: -0.00006733196642016992px;
+    text-align: left;
+    color: #787993;
+}
+
+.range__select-wr{
+    margin-top: 41px;
+    
+}
+
+.range__select-wr{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.range__select-wr-mini{
+    display: flex;
+    align-items: center;
+}
+
+.range__select{
+    margin-right: 32px;
+    background-color: white;
+    border: none;
+    font-family: 'Gilroy';
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 17px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #414D6A;
+}
+
+.range__select:nth-child(1){
+    padding: 15px 72px 14px 19px;
+}
+.range__select:nth-child(2){
+    padding: 15px 44px 14px 19px;
+}
+.range__select:nth-child(3){
+    padding: 15px 95px 14px 19px;
+}
+
+.range__button{
+    color: white;
+    background-color: #304FFF;
+    border: none;
+    border-radius: 23px;
+    padding: 14px 50px 14px 50px;
+}

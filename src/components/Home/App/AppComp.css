@@ -1,0 +1,95 @@
+.app{
+    background-color: #282B30;
+}
+
+.app__logo{
+    width: 67px;
+    height: 67px;
+}
+
+.app__wrapper{
+    display: flex;
+    align-items: center;
+    padding-top: 23px;
+    justify-content: space-between;
+    padding-bottom: 23px;
+}
+
+.app__logo-href{
+    display: flex;
+    align-items: center;
+}
+
+.app__logo-text{
+    max-width: 149px;
+    font-family: 'Gilroy';
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 17px;
+    letter-spacing: 0px;
+    text-align: left;
+    margin-left: 14px;
+    color: #FFFFFF;
+}
+
+.app__text{
+    font-family: 'Gilroy';
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 18px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #98A4B7;
+    max-width: 307px;
+}
+
+.app__button:nth-child(1){
+    margin-right: 10px;
+}
+.app__button{
+    display: flex;
+    align-items: center;
+    background: #212121;
+    border: none;
+    border-radius: 30px;
+    padding: 7px 38px 5px 11px;
+}
+
+.app__button-wr-image{
+    padding: 12px 14px 12px 14px;
+    border: 1px solid white;
+    border-radius: 50%;
+    /* display: flex; */
+}
+
+.app__button-title{
+    max-width: 72px;
+    margin-top: 2px;
+    color: white;
+    margin-left: 5px;
+}
+
+.google__text{
+    max-width: 95px;
+}
+
+.app__button-text{
+    color: white;
+    margin-left: 5px;
+    font-family: 'Gilroy';
+    font-size: 9px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 0px;
+    text-align: left;
+    max-width: 307px;
+}
+
+.app__button-wr{
+    display: flex;
+}
+
+.google{
+    width: 20px;
+    height: 22px;
+}

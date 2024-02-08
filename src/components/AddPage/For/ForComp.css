@@ -1,0 +1,31 @@
+.for{
+    padding-top: 42px;
+}
+
+.for__wrapper{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+}
+
+.for__title{
+    font-family: 'Gilroy';
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: black;
+}
+
+.for__text{
+    font-family: 'Gilroy';
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: black;
+    margin-top: 10px;
+}

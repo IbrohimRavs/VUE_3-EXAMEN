@@ -1,0 +1,280 @@
+{
+  "header": {
+    "title":"Soting, toping, sotib oling siz xohlagan hamma narsa ...",
+    "item__1":"E'lonlar",
+    "item__2":"Do'konlar",
+    "item__3":"Biznes uchun",
+    "item__4":"Yordam",
+    "item__5":"Kirish",
+    "item__6":"Roʻyxatdan oʻtish",
+    "item__7": "Temirov"
+  },
+  "home": {
+    "item__1":"Avtomobillar",
+    "item__2":"Ko'chmas mulk",
+    "item__3":"Elektronika",
+    "item__4":"Ish",
+    "item__5":"Shaxsiy narsalar",
+    "item__6":"Uy va bog'",
+    "item__7":"Qurilish va ta'mirlash",
+    "item__8":"Xobbi va sport",
+    "item__9":"Biznes va xizmatlar"
+  },
+  "hero": {
+    "title": "Yangi reklamalar",
+    "text": "Eng yaxshi taklif",
+    "more": "ko'proq ko'rsatish "
+  },
+  "splice":{
+    "title": "Koʻrildi",
+    "text": "Muharrir tanlovi",
+    "price": "Kamlashtirilgan narxlar"
+  },
+  "mark": {
+    "text": "Bepul e'lonlar sayti  bazada 234 944 999 ta element mavjud"  
+  },
+  "footer": {
+    "list__1":{
+      "item__1":"Avtomobillar",
+      "item__2":"Yo'lovchi avtomobillari",
+      "item__3":"Moto",
+      "item__4":"Avtobuslar",
+      "item__5":"Yuk mashinalari",
+      "item__6":"Qishloq xo'jaligi texnikasi",
+      "item__7":"Ehtiyot qismlar va aksessuarlar",
+      "item__8":"Treylerlar va maxsus jihozlar",
+      "item__9":"Suv va boshqa transport vositalari"
+    },
+    "list__2":{
+      "item__1":"Ko'chmas mulk",
+      "item__2":"Kvartiralar ijaraga beriladi",
+      "item__3":"Ijaraga beriladigan uylar",
+      "item__4":"Garajlar va to'xtash joylarini ijaraga olish",
+      "item__5":"Kvartiralar sotiladi",
+      "item__6":"Sotish uchun uylar",
+      "item__7":"Erni sotish",
+      "item__8":"Garajlar/to'xtash joylarini sotish",
+      "item__9":"Binolarni ijaraga berish",
+      "item__10":"Binolarni sotish",
+      "item__11":"Boshqa ko'chmas mulk",
+      "item__12":"Mulk almashinuvi",
+      "item__13":"Tijorat ko'chmas mulk"
+    },
+    "list__3":{
+      "item__1":"Elektronika",
+      "item__2":"Telefonlar",
+      "item__3":"Kompyuterlar",
+      "item__4":"Noutbuklar, planshetlar",
+      "item__5":"Ofis jihozlari va sarf materiallari",
+      "item__6":"Televizor, foto, video va audio",
+      "item__7":"O'yinlar va konsollar",
+      "item__8":"Uy va o'zingiz uchun uskunalar",
+      "item__9":"Iqlim uskunalari",
+      "item__10":"Aksessuarlar va komponentlar",
+      "item__11":"Kuzatuv texnologiyasi",
+      "item__12":"Boshqa elektronika"
+    },
+    "list__4":{
+      "item__1":"Shaxsiy narsalar",
+      "item__2":"Kiyim, poyabzal, aksessuarlar",
+      "item__3":"Bolalar kiyimlari va poyafzallari",
+      "item__4":"Bolalar uchun mahsulotlar va o'yinchoqlar",
+      "item__5":"Maktab o'quvchilari uchun",
+      "item__6":"Soatlar va zargarlik buyumlari",
+      "item__7":"Go'zallik va salomatlik uchun mahsulotlar",
+      "item__8":"Turli xil narsalar"
+    },
+    "list__5":{
+      "item__1":"Uy va bog'",
+      "item__2":"Ichki buyumlar",
+      "item__3":"Bog 'mahsulotlari",
+      "item__4":"O'simliklar",
+      "item__5":"Oziq-ovqat maxsulotlari",
+      "item__6":"Idish-tovoq va oshxona anjomlari",
+      "item__7":"Uy jihozlari va uy kimyoviy moddalari",
+      "item__8":"Kantselyariya va sarf materiallari"
+    },
+    "list__6":{
+      "item__1":"Qurilish va ta'mirlash tovarlari",
+      "item__2":"Eshiklar va derazalar",
+      "item__3":"Santexnika",
+      "item__4":"Qurilish materiallari",
+      "item__5":"Asboblar"
+    },
+    "list__7":{
+      "item__1":"Xobbi, dam olish va sport",
+      "item__2":"Antikvarlar va kollektsiyalar",
+      "item__3":"Musiqa asboblari",
+      "item__4":"Velosipedlar",
+      "item__5":"Sport va dam olish uchun tovarlar",
+      "item__6":"Kitoblar / Jurnallar",
+      "item__7":"CD/DVD/Yozuvlar/Kasetlar",
+      "item__8":"Chiptalar va sayohat",
+      "item__9":"Ov va baliq ovlash"
+    },
+    "list__8":{
+      "item__1":"Biznes va xizmatlar",
+      "item__2":"Xomashyo",
+      "item__3":"Uskunalar va ijara",
+      "item__4":"Ishlab chiqarish va qayta ishlash",
+      "item__5":"Biznes va hamkorlikni sotish",
+      "item__6":"Moliyaviy xizmatlar/Buxgalteriya hisobi",
+      "item__7":"Go'zallik va sog'liq uchun xizmatlar",
+      "item__8":"Kuryer va yetkazib berish xizmatlari",
+      "item__9":"Reklama, matbaa va marketing",
+      "item__10":"Enagalar, hamshiralar va uy bekalari",
+      "item__11":"Treninglar, kurslar va repetitorlar",
+      "item__12":"Foto, video, san'at va dizayn",
+      "item__13":"Tarjima va matn terish"
+    }
+  },
+  "card": {
+    "text": "Kecha"
+  },
+  "inp": {
+    "item__1": "Har qanday kategoriya",
+    "item__2": "Biz nimani qidiramiz?",
+    "item__3": "Butun O'zbekiston bo'ylab",
+    "item__4": "Toping",
+    "item__5": "Toping",
+    "item__6": "Reklama qo'shish"
+  },
+  "mini": {
+    "item__1": "E'lonlar",
+    "item__2": "Toshkent ko'chmas mulk",
+    "item__3": "Toshkent kvartiralari",
+    "item__4": "Toshkentda sotiladi",
+    "item__5": "Yangi binolar Toshkent"
+  },
+  "product": {
+    "item__1": "Maqola: 4418970",
+    "item__2": "yangilangan: 04/28/17 qo'shilgan: 04/28/17",
+    "item__3": "Toshkent, Toshkent viloyati, Yunusobod tumani",
+    "item__4": "To'liq ko'rsatish",
+    "item__5": "To'liq ko'rsatish",
+    "item__6": "Muallif:",
+    "item__7": "Zuxriddin Temirov",
+    "item__8": "Muallifga yozing",
+    "item__9": "Narxingizni taklif qiling",
+    "item__10": "Xonalar soni:",
+    "item__11": "Umumiy maydoni:",
+    "item__12": "Qavat:",
+    "item__13": "Uyning qavatlari:",
+    "item__14": "Kvartira holati:",
+    "item__15": "Birinchi kelishuv",
+    "item__16": "Qavat:",
+    "item__17": "Tartib",
+    "item__18": "Alohida",
+    "item__19": "Qurilish / foydalanishga topshirish yili",
+    "item__20": "2017 yilda yetkazib berish",
+    "item__21": "Ta'mirlash",
+    "item__22": "Mualliflik loyihasi",
+    "item__23": "Hammom",
+    "item__24": "2 yoki undan ortiq hammom",
+    "item__25": "Mebel bilan jihozlangan",
+    "item__26": "Ha",
+    "item__27": "Shift balandligi",
+    "item__28": "Yaqin atrofda bor",
+    "item__29": "Kasalxona, poliklinika, bolalar, o'yin maydonchalari, bog'chalar, to'xtash joylari, park, yashil maydon, ko'ngilochar maskanlar, restoranlar, kafelar",
+    "item__30": "7 qavatli g'ishtli binoning 1-qavatida 3 xonali zudlik bilan sotiladi. Yangi bino Golden House turar-joy majmuasi Etti Chinor Juda sifatli va qimmat remont. Xonalar butunlay alohida va katta. 2 ta hammom. Qo'shimcha narsalar uchun saqlash xonasi mavjud.Ta'mirlash ajoyib va ​​mutlaqo yangi.",
+    "item__31": "Ta'mirlash juda qimmat materiallar bilan amalga oshirildi Qimmat klassik oshxona mebellari. Jakuzi, har bir xonada issiq pollar. Qimmatbaho qandillar barcha xonalarning derazalariga osilgan. Hudud qo'riqlanadi. Bolalar, o'yin maydonchalari, belanchaklar va boshqalar uchun hamma narsa ta'minlangan. Joyda savdolashish. Shoshiling, sotish uchun pul kerak.Bu majmuada birinchi oltin qavat va oxirgi. Shoshilmoq.",
+    "item__32": "Ko'rildi: 10958",
+    "item__33": "Shikoyat qiling"
+  },
+  "bank": {
+    "item__1": "Salom Zuxriddin Temirov",
+    "item__2": "Sizning hisobingiz: 2 3000 so'm",
+    "item__3": "To'ldirish"
+  },
+  "profile": {
+    "item__1": "Surat",
+    "item__2": "Ism",
+    "item__3": "Narxi",
+    "item__4": "sana",
+    "item__5": "Harakat",
+    "item__6": "Tezkor dasturchi kerak yil2",
+    "item__7": "Kimdan: 28 iyun",
+    "item__8": "Muallif: 28 iyul",
+    "item__9": "Oshirish",
+    "item__10":"Reklama qilish uchun",
+    "item__11": "Statistika",
+    "item__12": "Ko'rishlar: 195",
+    "item__13": "Tel.: 200",
+    "item__14": "Sevimlilar: 0",
+    "item__15": "6 000 000 sum"
+  },
+  "children": {
+    "item__1": "E'lonlar",
+    "item__2": "Xabarlar",
+    "item__3": "To'lovlar va hisob-faktura",
+    "item__4": "Sozlamalar",
+    "item__5": "Mening biznesim"
+  },
+  "label": {
+    "item__1": "Reklama sarlavhasini kiriting yoki ro'yxatdan tanlang",
+    "item__2": "Qiziqarli",
+    "item__3": "Yuqori",
+    "item__4": "Ajoyib taklif",
+    "item__5": "Super narx",
+    "item__6": "Sh.Toshkent",
+    "item__7": "Sh.Termez",
+    "item__8": "Sh.Samarkand"
+  },
+  "range": {
+    "item__1": "dan vagacha narxni tanlang",
+    "item__2": "Davlat",
+    "item__3": "Deklarator turi",
+    "item__4": "Toshkent > Mirzo Ulug‘bek tumani",
+    "item__5": "Qolang"
+  },
+  "search": {
+    "item__1": "Hozir Izlsahvotti",
+    "item__2": "go'sht mahsulotlarini sotib oling",
+    "item__3": "2 soat oldin"
+  },
+  "splices": {
+    "item__1": "ENG QIZIQARLI"
+  },
+  "ads": {
+    "item__1": "Narx",
+    "item__2": "Sum",
+    "item__3": "Kelishuv mumkin",
+    "item__4": "Xonalar soni*",
+    "item__5": "Manzil*",
+    "item__6": "Shaharda",
+    "item__7": "Yo'l bo'ylab",
+    "item__8": "Dacha hududida",
+    "item__9": "Shahar chekkasida",
+    "item__10": "Hovuz, daryo yaqinida",
+    "item__11": "Yopiq hududda",
+    "item__12": "Qishloqda",
+    "item__13": "Tog' etaklarida",
+    "item__14": "Uyning qavatlar soni*",
+    "item__15": "Shift balandligi",
+    "item__16": "Yer maydoni*",
+    "item__17": "Uyning holati",
+    "item__18": "Mualliflik loyihasi",
+    "item__19": "Ta'mirlash kerak",
+    "item__20": "Qo'pol tugatish",
+    "item__21": "O'rta ta'mirlash",
+    "item__22": "Oldindan tugatish",
+    "item__23": "Под снос",
+    "item__24": "Yevropa sifatli ta'mirlash",
+    "item__25": "Tugallanmagan",
+    "item__26": "Uy turi",
+    "item__27": "Elektr",
+    "item__28": "Kottej",
+    "item__29": "Ulanish imkoniyati",
+    "item__30": "Elektr",
+    "item__31": "Ob'ekt joylashuvi",
+    "item__32": "Mintaqa",
+    "item__33": "Shahar / tuman",
+    "item__34": "Toshkent",
+    "item__35": "Mirzo Ulug‘bek tumani",
+    "item__36": "Telefon raqami",
+    "item__37": "E-pochta manzili",
+    "item__38": "Bog'lanish uchun shaxs",
+    "item__39": "Reklamalarni bepul qo'shing",
+    "item__40": "Ko‘rib chiqish"
+  }
+}

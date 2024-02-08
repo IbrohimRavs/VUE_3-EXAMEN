@@ -1,0 +1,84 @@
+.hero{
+    padding-top: 60px;
+}
+
+.hero__text{
+    font-family: 'Gilroy';
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 17px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #4A4A4A;
+}
+.hero__item{
+    text-align: center;
+}
+
+.hero__list{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.hero__item-img{
+    width: 75px;
+    height: 75px;
+    padding: 12px;
+    background-color: #B6CAFB;    
+    border: none;
+    border-radius: 20px;
+}
+
+.store{
+    background-color: #B4E2E1;
+}
+
+.terminal{
+    background-color: #FF9E83;
+}
+
+.briefcase{
+    background-color: #F7E233;
+}
+
+.gifts{
+    background-color: #F6DAC2;
+}
+
+.in{
+    background-color: #B4E2E1;
+}
+
+.gaming{
+    background-color: #F6DAC2;
+}
+
+.man{
+    background-color: #FF9E83;
+}
+
+.hero__list{
+    position: relative;
+}
+
+.hero__list::before{
+    content: '';
+    background-image: url("/images/left.svg");
+    position: absolute;
+    width: 44px;
+    height: 44px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    left: -50px;
+}
+.hero__list::after{
+    content: '';
+    background-image: url("/images/right.svg");
+    position: absolute;
+    width: 44px;
+    height: 44px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    right: -50px;
+}

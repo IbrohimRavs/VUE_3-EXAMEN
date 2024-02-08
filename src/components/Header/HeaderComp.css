@@ -1,0 +1,147 @@
+.header__wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header__logo-wr{
+    display: flex;
+    align-items: center;
+}
+
+.header__logo-text{
+    margin-left: 14px;
+    color: #000;
+    font-family: 'Gilroy';
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 17px; 
+    max-width: 152px;
+}
+
+.header__list{
+    display: flex;
+    justify-content: space-between;
+    width: 425px;
+}
+
+.header__item-text{
+    color: #000;
+    font-family: 'Gilroy';
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.header__lang-wr{
+    display: flex;
+    width: 80px;
+    position: relative;
+    align-items: center;
+}
+
+.header__lang-ru{
+    margin-right: 20px;
+    color: #4A4A4A;
+    font-family: 'Gilroy';
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.header__lang-uz{
+    margin-left: 20px;
+    color: #4A4A4A;
+    font-family: 'Gilroy';
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.header__border-lang{
+    position: absolute;
+    border: 1px solid black;
+    width: 1px;
+    height: 17px;
+    top: 0;
+    right: 37px;
+}
+
+.header__sign-wr{
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+
+.header__sign-border{
+    position: absolute;
+    border: 1px solid #4E72CA;
+    width: 1px;
+    height: 21px;
+    top: 0;
+    right: 120px;
+}
+
+.header__sign{
+    color: #4E72CA;
+    font-family: 'Gilroy';
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-right: 20px;
+}
+.header__reg{
+    color: #4E72CA;
+    font-family: 'Gilroy';
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-left: 20px;
+    position: relative;
+}
+
+
+.header__reg::before{
+    position: absolute;
+    border: 1px solid #4E72CA;
+    width: 1px;
+    height: 21px;
+    top: 0;
+    content: '';
+    left: -20px;
+}
+
+.header__wrapper .header__list .router-link-exact-active{
+    color: #05F3B3;
+}
+
+.header__user-text{
+    font-family: 'Gilroy';
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 21px;
+    letter-spacing: 0px;
+    display: flex;
+    align-items: center;
+    color: #787993;
+}
+
+.header__user-wr{
+    display: flex;
+    align-items: center;
+}
+
+.header__user-img{
+    margin-left: 13px;
+}
+
+.footer__item-wr{
+    display: flex;
+    flex-direction: column;
+}

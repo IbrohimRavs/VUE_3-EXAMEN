@@ -1,0 +1,41 @@
+.mini{
+    padding-top: 41px;
+    padding-bottom: 20px;
+}
+
+.mini__text-wr{
+    display: flex;
+    justify-content: space-between;
+    width: 66% ;
+    position: relative;
+    align-items: center;
+}
+
+.mini__text{
+    font-family: 'Gilroy';
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 17px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #787993;
+}
+
+.mini__text-span{
+    position: absolute;
+    left: 88px;
+    bottom: -2px;
+    color: #787993;
+    
+}
+
+.two{
+    left: 278px;
+}
+.three{
+    left: 435px;
+}
+
+.four{
+    left: 586px;
+}

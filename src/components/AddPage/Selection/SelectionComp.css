@@ -1,0 +1,72 @@
+.selection{
+    padding-top: 40px;
+}
+
+.selection__wrapper{
+    display: flex;
+    align-items: center;
+}
+
+.selection__wr-text{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.selection__title{
+    font-family: 'Gilroy';
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 20px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: black;
+    margin-right: 15px;
+}
+
+.selection__text{
+    font-family: 'Gilroy';
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #2EB769;
+    margin-right: 15px;
+}
+
+.selection__button {
+    background-color: #fff;   
+    border: 1px solid #41D481;
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+    padding-right: 19px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+    margin-left: 20px;
+}
+
+.selection__button-img-wr{
+    padding: 9px 8px 8px 9px;
+    border: none;
+    background-color: #41D481;
+    margin-right: 14px;
+    border-radius: 50%;
+}
+
+.selection__button-img {
+    width: 17px;
+    height: 17px;
+    
+}
+.selection__button-text {
+    font-family: 'Gilroy';
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: black;
+}

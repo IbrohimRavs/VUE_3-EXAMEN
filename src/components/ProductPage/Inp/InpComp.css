@@ -1,0 +1,136 @@
+.inp{
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+.inp__wrapper{
+    display: flex;
+}
+
+.inp__select{
+    border: none;
+    background-color: inherit;
+    font-family:'Gilroy';
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 18px;
+    letter-spacing: 0px;
+    text-align: left;
+    padding: 13px 0 14px 30px;
+    /* border-right: 1px solid #9797975E; */
+    position: relative;
+}
+
+.inp__wr-input{
+    border: 1px solid #9797977F;
+    border-radius: 32px ;
+    position: relative;
+}
+
+/* .inp__select::before{
+    content: '';
+    position: absolute;
+    border: 1px solid #9797977F;
+    width: 3px;
+    height: 44px;
+} */
+
+
+.inp__select-border{
+    position: absolute;
+    border: 1px solid #9797977F;
+    width: 1px;
+    height: 48px;
+    left: 210px;
+}
+
+.inp__input{
+    border: none;
+    background-color: inherit;
+    font-family: 'Gilroy';
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 18px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: black;
+    margin-left: 60px;
+}
+
+.inp__input::placeholder{
+    color: black;
+}
+
+.inp__input-border{
+    position: absolute;
+    border: 1px solid #9797977F;
+    width: 1px;
+    height: 48px;
+    left: 563px;
+}
+
+.inp__select-last{
+    border: none;
+    background-color: inherit;
+    font-family: 'Gilroy';
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 18px;
+    letter-spacing: 0px;
+    text-align: left;
+    margin-left: 182px;
+    padding-right: 28px;
+}
+
+.inp__select-button{
+    border: none;
+    background-color: #19D476;
+    color: white;
+    font-family: Gilroy;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 17px;
+    letter-spacing: 0px;
+    text-align: left;
+    padding: 16px 18px 15px 19px;
+    border-radius: 28px;
+    margin-left: 18px;
+}
+
+.inp__button{
+    background-color: #19D476;   
+    border: none;
+    display: flex;
+    align-items: center;
+    border-radius: 30px;
+    margin-left: 14px;
+    padding-right: 30px;
+    padding-left: 21px;
+    position: relative;
+}
+
+.inp__button-text{
+    color: white;
+    margin-left: 35px;
+    font-family: 'Gilroy';
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 19px;
+    letter-spacing: 0px;
+    text-align: left;
+    
+}
+
+.inp__button-wr-img{
+    background-color: #11B462;
+    border-radius: 50%;
+    position: absolute;
+    padding: 5px 15px 5px 15px;
+    left: 0;
+}
+
+.inp__button-img{
+    /* padding-left: 10px; */
+    width: 16px;
+    height: 34px;
+}

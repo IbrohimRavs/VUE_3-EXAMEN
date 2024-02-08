@@ -1,0 +1,65 @@
+.splices{
+    padding-top: 40px;
+}
+
+.splices__title{
+    font-family: 'Gilroy';
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 25px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #41D481;
+}
+
+.splices__list{
+    margin-top: 18px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.splices__item{
+    padding: 30px 26px 36px 26px;
+}
+
+.splices__item-image{
+    width: 302px;
+    height: 219px;
+}
+
+.splices__item-text{
+    margin-top: 12px;
+    font-family: 'Gilroy';
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 0px;
+    text-align: left;
+    max-width: 280px;
+    margin-bottom: 20px;
+    color: #000000;
+}
+
+.splices__item-time{
+    font-family: 'Gilroy';
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 14px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #4A4A4A;
+}
+
+.splices__item-price{
+    font-family: 'Gilroy';
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 20px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: black;
+}
+
+.splices__item{
+    border: 1px solid #7879933E;
+}
